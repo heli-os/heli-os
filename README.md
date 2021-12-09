@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jin__ssssun)](https://www.instagram.com/jin__ssssun)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jinssssun)](https://www.linkedin.com/in/jinssssun)
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=960813&show_icons=true)
+![Taeyang's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=960813)
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F)
