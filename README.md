@@ -6,6 +6,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=960813&show_icons=true)
 [![Taeyang's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=960813)](https://leetcode.com/960813/)
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssun)](https://solved.ac/ssun)
+
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F)
