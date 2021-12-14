@@ -20,4 +20,7 @@
 - **-** 
   - (PR) -
 
+### 📄 Blogs
+- [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54) - 2021. 12. 13
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=960813&show_icons=true)
