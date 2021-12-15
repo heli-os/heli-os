@@ -10,8 +10,14 @@
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=fff)
 
-* Working as a **Back-end Engineer**
-* Mainly using **Kotlin**, Java
+![Github Stats](https://github-readme-stats.vercel.app/api?username=960813&show_icons=true)
+
+---
+
+### 💁🏻‍♂️ Breif
+- Working as a **Back-end Engineer**
+- Mainly using **Kotlin**, Java
+
 ### 💼 Experience
 - **KakaoPay** - Software Development Engineer *(Jan 2022 ~ PRESENT)*
 - **Hackle** - Software Engineer *(Jun 2021 ~ Nov 2021)*
@@ -22,5 +28,3 @@
 
 ### 📄 Blogs
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54) - 2021. 12. 13
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=960813&show_icons=true)
