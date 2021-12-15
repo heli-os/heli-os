@@ -22,9 +22,11 @@
 - **KakaoPay** - Software Development Engineer *(Jan 2022 ~ PRESENT)*
 - **Hackle** - Software Engineer *(Jun 2021 ~ Nov 2021)*
 
+<!--
 ### :octocat: Contributions
 - **-** 
   - (PR) -
+-->
 
 ### 📄 Blogs
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54)
