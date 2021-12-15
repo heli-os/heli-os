@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F960813)](https://hits.seeyoufarm.com)
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssun)](https://solved.ac/ssun)
 [![Resume](https://img.shields.io/badge/Resume-Notion-orange?style=flat-square)](https://bit.ly/jinssssun-notion)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jinssssun)](https://www.linkedin.com/in/jinssssun)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/taeyang-jin/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jin.ssssun)](https://www.facebook.com/jin.ssssun)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jin__ssssun)](https://www.instagram.com/jin__ssssun)
 
