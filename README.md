@@ -1,5 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F960813)](https://hits.seeyoufarm.com)
-[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssun)](https://solved.ac/ssun)
 [![Resume](https://img.shields.io/badge/Resume-Notion-orange?style=flat-square)](https://bit.ly/jinssssun-notion)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/taeyang-jin/)
 
@@ -9,6 +8,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=fff)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=960813&show_icons=true)
+
+
+<!--[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssun)](https://solved.ac/ssun)-->
 
 ---
 
