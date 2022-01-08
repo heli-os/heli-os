@@ -15,6 +15,7 @@
 ---
 
 ### 💁🏻‍♂️ Breif
+- I'm Heli, 헬리
 - Working as a **Back-end Engineer**
 - Mainly using **Kotlin**, Java
 
