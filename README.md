@@ -29,7 +29,7 @@
   - (PR) -
 -->
 
-### 📄 Blogs
+### 📄 Blogs (Under construction)
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54)
 - [SpringBoot에서 STOMP로 채팅 애플리케이션 만들기 (1)](https://dataportal.kr/55)
 - [상황 학습을 실현할 수 있는 조직을 만들자](https://dataportal.kr/31)
