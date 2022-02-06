@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheli-os)](https://hits.seeyoufarm.com)
-[![Resume](https://img.shields.io/badge/Resume-Notion-orange?style=flat-square)](https://bit.ly/jinssssun-notion)
+[![Resume](https://img.shields.io/badge/Resume-Notion-orange?style=flat-square)](https://dataportal.kr/resume)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/taeyang-jin/)
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
