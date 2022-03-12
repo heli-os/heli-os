@@ -8,6 +8,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=fff)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=heli-os&show_icons=true)
+<a href="https://opgc.me/#/users/heli-os" target="_blank"><img src="https://api.opgc.me/githubs/users/heli-os/tag/?theme=basic" /></a>
 
 
 <!--[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssun)](https://solved.ac/ssun)-->
