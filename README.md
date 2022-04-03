@@ -30,7 +30,7 @@
   - (PR) -
 -->
 
-### 📄 Blogs
+### 📄 Blog
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54)
 - [Why DDD, Clean Architecture and Hexagonal ?](https://dataportal.kr/74)
 - [Facebook을 다운 시킨 원인, BGP hijacking이 무엇인가?](https://dataportal.kr/14)
