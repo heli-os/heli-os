@@ -21,7 +21,7 @@
 - Mainly using **Kotlin**, Java
 
 ### 💼 Experience
-- **KakaoPay** - Software Development Engineer *(Jan 2022 ~ PRESENT)*
+- **kakaopay** - Software Development Engineer *(Jan 2022 ~ PRESENT)*
 - **Hackle** - Software Engineer *(Jun 2021 ~ Nov 2021)*
 
 <!--
