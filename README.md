@@ -22,7 +22,7 @@
 
 ### 💼 Experience
 - **kakaopay** - Software Development Engineer *(Jan 2022 ~ PRESENT)*
-- **Code for Korea** - Maintainer & Organizer *(Mar 2022 ~ PRESENT)*
+- **Code for Korea** - Maintainer & Organizer *(Mar 2020 ~ PRESENT)*
 - **Hackle** - Software Engineer *(Jun 2021 ~ Nov 2021)*
 
 ### :octocat: Contributions
