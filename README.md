@@ -22,13 +22,19 @@
 
 ### 💼 Experience
 - **kakaopay** - Software Development Engineer *(Jan 2022 ~ PRESENT)*
+- **Code for Korea** - Maintainer & Organizer *(Mar 2022 ~ PRESENT)*
 - **Hackle** - Software Engineer *(Jun 2021 ~ Nov 2021)*
 
-<!--
 ### :octocat: Contributions
-- **-** 
-  - (PR) -
--->
+- **kotlin-jdsl**
+  - (PR) https://github.com/line/kotlin-jdsl/pull/68
+    - change example code to not use platform type
+    - correct typoe in some files
+    - modifications to unify code style
+- **postman**
+  - (ISSUE) https://github.com/postmanlabs/postman-app-support/issues/10221
+    - asked if Postman sends SYN to check that IPv6 is available
+    - and posted about the process. (KOR) https://dataportal.kr/2
 
 ### 📄 Blog
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54)
