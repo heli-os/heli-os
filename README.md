@@ -29,8 +29,8 @@
 - **kotlin-jdsl**
   - (PR) https://github.com/line/kotlin-jdsl/pull/68
     - change example code to not use platform type
-  - correct typo in some files
-  - modify to unify code style
+    - correct typo in some files
+    - modify to unify code style
 - **postman**
   - (ISSUE) https://github.com/postmanlabs/postman-app-support/issues/10221
     - asked if Postman sends SYN to check that IPv6 is available
