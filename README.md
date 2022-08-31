@@ -26,15 +26,6 @@
 - **Hackle** - Software Engineer *(Jun 2021 ~ Nov 2021)*
 
 ### :octocat: Contributions
-- **kotlin-jdsl**
-  - (PR) https://github.com/line/kotlin-jdsl/pull/68
-    - change example code to not use platform type
-    - correct typo in some files
-    - modify to unify code style
-- **postman**
-  - (ISSUE) https://github.com/postmanlabs/postman-app-support/issues/10221
-    - asked if Postman sends SYN to check that IPv6 is available
-    - and posted about the process. (KOR) https://dataportal.kr/2
 - **mongo-java-driver**
   - (PR) https://github.com/mongodb/mongo-java-driver/pull/996
     - fix minor typos in java comments(javadoc) and all that minor typos
@@ -42,6 +33,23 @@
     - fix typo in abstract method name in ServerMonitorListener
   - (ISSUE) [mongodb/mongo-java-driver#4719](https://jira.mongodb.org/browse/JAVA-4719)
     - inquire is it bug that the maintenance timer logic for sdam
+- **ksp**
+  - (PR) https://github.com/google/ksp/pull/1088
+    - change some codes to not use platform type
+    - lift return out of 'if'
+- **kotlin-jdsl**
+  - (PR) https://github.com/line/kotlin-jdsl/pull/68
+    - change example code to not use platform type
+    - correct typo in some files
+    - modify to unify code style
+- **Exposed**
+  - (PR) https://github.com/JetBrains/Exposed/pull/1582
+    - change some codes to not use platform type
+    - change 'when' expression style
+- **postman**
+  - (ISSUE) https://github.com/postmanlabs/postman-app-support/issues/10221
+    - asked if Postman sends SYN to check that IPv6 is available
+    - and posted about the process. (KOR) https://dataportal.kr/2
 
 ### 📄 Blog
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54)
