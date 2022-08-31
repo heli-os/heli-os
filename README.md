@@ -38,6 +38,10 @@
 - **mongo-java-driver**
   - (PR) https://github.com/mongodb/mongo-java-driver/pull/996
     - fix minor typos in java comments(javadoc) and all that minor typos
+  - (PR) https://github.com/mongodb/mongo-java-driver/pull/997
+    - fix typo in abstract method name in ServerMonitorListener
+  - (ISSUE) [mongodb/mongo-java-driver#4719](https://jira.mongodb.org/browse/JAVA-4719)
+    - inquire is it bug that the maintenance timer logic for sdam
 
 ### 📄 Blog
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54)
