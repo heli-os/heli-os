@@ -33,6 +33,9 @@
     - fix typo in abstract method name in ServerMonitorListener
   - (ISSUE) [mongodb/mongo-java-driver#4719](https://jira.mongodb.org/browse/JAVA-4719)
     - inquire is it bug that the maintenance timer logic for sdam
+  - (PR) https://github.com/mongodb/mongo-java-driver/pull/999
+    - change the log message from INFO to DEBUG
+    - Justification: it's the only remaining connection-related log message that is logged at INFO (e.g. the connection-closed message is logged at DEBUG).
 - **ksp**
   - (PR) https://github.com/google/ksp/pull/1088
     - change some codes to not use platform type
