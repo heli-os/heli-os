@@ -38,8 +38,8 @@
     - Justification: it's the only remaining connection-related log message that is logged at INFO (e.g. the connection-closed message is logged at DEBUG).
 - **ksp**
   - (PR) https://github.com/google/ksp/pull/1088
-    - change some codes to not use platform type
     - lift return out of 'if'
+    - change the modifiers to private from public 
 - **kotlin-jdsl**
   - (PR) https://github.com/line/kotlin-jdsl/pull/68
     - change example code to not use platform type
