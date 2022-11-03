@@ -74,9 +74,12 @@ Sendtime: [https://sendtime.io/@sun](https://sendtime.io/@sun)
     - asked if Postman sends SYN to check that IPv6 is available
     - and posted about the process. (KOR) https://dataportal.kr/2
 
-### 📄 Blog
+### 📄 Contents - Individual
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54)
 - [Why DDD, Clean Architecture and Hexagonal ?](https://dataportal.kr/74)
 - [Facebook을 다운 시킨 원인, BGP hijacking이 무엇인가?](https://dataportal.kr/14)
 - [상황 학습을 실현할 수 있는 조직을 만들자](https://dataportal.kr/31)
 - [좋은 동료는 어떤 동료일까? (feat. 띵스플로우)](https://dataportal.kr/30)
+
+### 📜 Contents - Collective
+- [주니어 개발자의 오픈소스 활동 이야기](https://tech.kakaopay.com/post/junior-opensource)
