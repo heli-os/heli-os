@@ -1,19 +1,25 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheli-os)](https://hits.seeyoufarm.com)
-[![Resume](https://img.shields.io/badge/Resume-Notion-orange?style=flat-square)](https://resume.dataportal.kr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/taeyang-jin/)
+[![Resume](https://img.shields.io/badge/Resume-orange?style=flat-square&logo=Awesome%20Lists&logoColor=black)](https://resume.dataportal.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/taeyang-jin/)
 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=fff)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
+
 
 <a href="https://github.com/heli-os">
   <img src="./static/hero-image.gif" width="640"/>
 </a>
 
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=heli-os&show_icons=true)
 <a href="https://opgc.me/#/users/heli-os" target="_blank"><img src="https://api.opgc.me/githubs/users/heli-os/tag/?theme=basic" /></a>
-
+-->
 
 <!--[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssun)](https://solved.ac/ssun)-->
 
