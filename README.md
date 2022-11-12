@@ -80,6 +80,7 @@ Sendtime: [https://sendtime.io/@sun](https://sendtime.io/@sun)
 - [Facebook을 다운 시킨 원인, BGP hijacking이 무엇인가?](https://dataportal.kr/14)
 - [상황 학습을 실현할 수 있는 조직을 만들자](https://dataportal.kr/31)
 - [좋은 동료는 어떤 동료일까? (feat. 띵스플로우)](https://dataportal.kr/30)
+- [Webhooks(웹훅) 시스템 체크리스트](https://dataportal.kr/86)
 
 ### 📜 Contents - Collective
 - [주니어 개발자의 오픈소스 활동 이야기](https://tech.kakaopay.com/post/junior-opensource)
