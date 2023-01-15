@@ -29,9 +29,13 @@
 ### ☕️ Networking
 기술 직군의 기술적인 교류, 커리어 이야기, 직군 무관 네트워킹 모두 환영합니다!
 
-예약은 센드타임으로 부탁드립니다.
+위클리 아카데미 오픈 채팅방(비밀번호: 9323)
 
-Sendtime: [https://sendtime.io/@sun](https://sendtime.io/@sun)
+- kakaotalk: [https://open.kakao.com/o/gyvuT5Yd](https://open.kakao.com/o/gyvuT5Yd)
+
+1:1 네트워킹은 센드타임으로 예약 부탁드립니다.
+
+- sendtime: [https://sendtime.io/@sun](https://sendtime.io/@sun)
 
 ---
 
