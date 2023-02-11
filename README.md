@@ -33,10 +33,6 @@
 
 - kakaotalk: [https://open.kakao.com/o/gyvuT5Yd](https://open.kakao.com/o/gyvuT5Yd)
 
-1:1 네트워킹은 센드타임으로 예약 부탁드립니다.
-
-- sendtime: [https://sendtime.io/@sun](https://sendtime.io/@sun)
-
 ---
 
 ### 💁🏻‍♂️ Brief
