@@ -45,6 +45,10 @@
 - **Code for Korea** - Maintainer & Organizer *(Mar 2020 ~ PRESENT)*
 - **PyCon Korea** - Organizer *(Jan 2023 ~ PRESENT)*
 - **Hackle** - Software Engineer *(Jun 2021 ~ Nov 2021)*
+- **Code States** - Simulated Technical Interviewer and Mentor  *(Nov 2022 ~ Feb 2023)*
+- **Ministry of Science and Technology, Republic of Korea** - Consultant *(Dec 2021 ~ PRESENT)*
+- **Ministry of Health and Welfare, Republic of Korea** - Consultant *(Nov 2021 ~ PRESENT)*
+- **Ministry of the Interior and Safety, Republic of Korea** - Advisor, Mentor and Consultant *(Apr 2020 ~ PRESENT)*
 
 ### :octocat: Contributions
 - **mongo-java-driver**
