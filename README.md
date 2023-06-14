@@ -93,5 +93,5 @@
 - [Java Compiler Optimization](https://dataportal.kr/90)
 
 ### 📜 Contents - Collective
-- [주니어 개발자의 오픈소스 활동 이야기](https://tech.kakaopay.com/post/junior-opensource)
-- [Civic Hacking for COVID-19 Recovery: The Story of Code for Korea](https://codeforall.org/2022/09/06/civic-hacking-for-covid-19-recovery-the-story-of-code-for-korea)
+- [[kakaopay] 오픈소스 활동 이야기](https://tech.kakaopay.com/post/junior-opensource)
+- [[Code for Korea]Civic Hacking for COVID-19 Recovery: The Story of Code for Korea](https://codeforall.org/2022/09/06/civic-hacking-for-covid-19-recovery-the-story-of-code-for-korea)
