@@ -26,7 +26,7 @@
 
 <!--[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssun)](https://solved.ac/ssun)-->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heli-os&hide_longest_streak=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heli-os)
 
 ---
 
