@@ -46,15 +46,15 @@
 - Have studied programming for 13 years since 2010. During that time, I developed many programs and had many opportunities to improve my skills dramatically.
 
 ### 💼 Experience
-- **Bolta** - CTO & co-founder *(May 2023 ~ PRESENT)*
-- **Code for Korea** - Maintainer & Organizer *(Mar 2020 ~ PRESENT)*
-- **PyCon Korea** - Organizer *(Jan 2023 ~ PRESENT)*
-- **kakaopay** - Software Engineer *(Jan 2022 ~ Jun)*
-- **Hackle** - Software Engineer *(Jun 2021 ~ Nov 2021)*
-- **Codestates** - Simulated Technical Interviewer and Mentor  *(Nov 2022 ~ Feb 2023)*
-- **Ministry of Science and Technology, Republic of Korea** - Consultant *(Dec 2021 ~ PRESENT)*
-- **Ministry of Health and Welfare, Republic of Korea** - Consultant *(Nov 2021 ~ PRESENT)*
-- **Ministry of the Interior and Safety, Republic of Korea** - Advisor, Mentor and Consultant *(Apr 2020 ~ PRESENT)*
+- **Bolta** - CTO & co-founder
+- **Code for Korea** - Maintainer & Organizer
+- **PyCon Korea** - Organizer
+- **kakaopay** - Software Engineer
+- **Hackle** - Software Engineer
+- **Codestates** - Simulated Technical Interviewer and Mentor
+- **Ministry of Science and Technology, Republic of Korea** - Consultant
+- **Ministry of Health and Welfare, Republic of Korea** - Consultant
+- **Ministry of the Interior and Safety, Republic of Korea** - Advisor, Mentor and Consultant
 - .. And more
 
 ### :octocat: Contributions
