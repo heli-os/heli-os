@@ -41,12 +41,12 @@
 
 ### 💁🏻‍♂️ Brief
 - I'm 테오, Theo
-- Working as a **Back-end Engineer**
+- Working as a **Chief Technical Officer**
 - Mainly using **Kotlin**, Java
 - Have studied programming for 13 years since 2010. During that time, I developed many programs and had many opportunities to improve my skills dramatically.
 
 ### 💼 Experience
-- **Bolta** - CTO & co-founder
+- **Bolta** - Chief Technical Officer & co-founder
 - **Code for Korea** - Maintainer & Organizer
 - **PyCon Korea** - Organizer
 - **kakaopay** - Software Engineer
