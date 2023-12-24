@@ -84,17 +84,17 @@
 - **postman**
   - (ISSUE) https://github.com/postmanlabs/postman-app-support/issues/10221
     - asked if Postman sends SYN to check that IPv6 is available
-    - and posted about the process. (KOR) https://dataportal.kr/2
+    - and posted about the process. (KOR) https://jinssssun.tistory.com/2
 
 ### 📄 Contents - Individual
-- [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://dataportal.kr/54)
-- [Why DDD, Clean Architecture and Hexagonal ?](https://dataportal.kr/74)
-- [Facebook을 다운 시킨 원인, BGP hijacking이 무엇인가?](https://dataportal.kr/14)
-- [상황 학습을 실현할 수 있는 조직을 만들자](https://dataportal.kr/31)
-- [좋은 동료는 어떤 동료일까? (feat. 띵스플로우)](https://dataportal.kr/30)
-- [Webhooks(웹훅) 시스템 체크리스트](https://dataportal.kr/86)
-- [내가 개발 커뮤니티를 하는 이유 (a.k.a 10년 회고)](https://dataportal.kr/89)
-- [Java Compiler Optimization](https://dataportal.kr/90)
+- [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://jinssssun.tistory.com/54)
+- [Why DDD, Clean Architecture and Hexagonal ?](https://jinssssun.tistory.com/74)
+- [Facebook을 다운 시킨 원인, BGP hijacking이 무엇인가?](https://jinssssun.tistory.com/14)
+- [상황 학습을 실현할 수 있는 조직을 만들자](https://jinssssun.tistory.com/31)
+- [좋은 동료는 어떤 동료일까? (feat. 띵스플로우)](https://jinssssun.tistory.com/30)
+- [Webhooks(웹훅) 시스템 체크리스트](https://jinssssun.tistory.com/86)
+- [내가 개발 커뮤니티를 하는 이유 (a.k.a 10년 회고)](https://jinssssun.tistory.com/89)
+- [Java Compiler Optimization](https://jinssssun.tistory.com/90)
 
 ### 📜 Contents - Collective
 - [[kakaopay] 오픈소스 활동 이야기](https://tech.kakaopay.com/post/junior-opensource)
