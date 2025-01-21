@@ -43,7 +43,7 @@
 - I'm 테오, Theo
 - Working as a **Chief Technical Officer**
 - Mainly using **Kotlin**, Java
-- Have studied programming for 14 years since 2010. During that time, I developed many programs and had many opportunities to improve my skills dramatically.
+- Have studied programming for 16 years since 2009. During that time, I developed many programs and had many opportunities to improve my skills dramatically.
 
 ### 💼 Experience
 - **Bolta** - Chief Technical Officer & Co-Founder
