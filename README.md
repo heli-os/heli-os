@@ -48,6 +48,7 @@
 ### 💼 Experience
 - **Bolta** - Chief Technical Officer & Co-Founder
 - **Code for Korea** - Maintainer & Organizer
+- **KSUG(Korea Spring User Group)** - Organizer
 - **PyCon Korea** - Organizer
 - **kakaopay** - Software Engineer
 - **Hackle** - Software Engineer
