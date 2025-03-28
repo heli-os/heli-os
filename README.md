@@ -60,23 +60,24 @@
 
 ### :octocat: Contributions
 - **mongo-java-driver**
-  - (PR) https://github.com/mongodb/mongo-java-driver/pull/996
-  - (PR) https://github.com/mongodb/mongo-java-driver/pull/997
-  - (ISSUE) [mongodb/mongo-java-driver#4719](https://jira.mongodb.org/browse/JAVA-4719)
-  - (PR) https://github.com/mongodb/mongo-java-driver/pull/999
+  - https://github.com/mongodb/mongo-java-driver/pull/996
+  - https://github.com/mongodb/mongo-java-driver/pull/997
+  - [mongodb/mongo-java-driver#4719](https://jira.mongodb.org/browse/JAVA-4719)
+  - https://github.com/mongodb/mongo-java-driver/pull/999
 - **feign**
-  - (ISSUE) [OpenFeign/feign#2458](https://github.com/OpenFeign/feign/issues/2458)
-  - (PR) [OpenFeign/feign#2459](https://github.com/OpenFeign/feign/pull/2459)
+  - [OpenFeign/feign#2458](https://github.com/OpenFeign/feign/issues/2458)
+  - [OpenFeign/feign#2459](https://github.com/OpenFeign/feign/pull/2459)
 - **ksp**
-  - (PR) https://github.com/google/ksp/pull/1088
+  - https://github.com/google/ksp/pull/1088
 - **kotlin-jdsl**
-  - (PR) https://github.com/line/kotlin-jdsl/pull/68
+  - https://github.com/line/kotlin-jdsl/pull/68
 - **Exposed**
-  - (PR) https://github.com/JetBrains/Exposed/pull/1582
+  - https://github.com/JetBrains/Exposed/pull/1582
 - **postman**
-  - (ISSUE) https://github.com/postmanlabs/postman-app-support/issues/10221
+  - https://github.com/postmanlabs/postman-app-support/issues/10221
 
 ### 📄 Contents - Individual
+- [결과에 확신이 없더라도 꾸준히 노력해야 하는 이유](https://dataportal.kr/결과에-확신이-없더라도-꾸준히-노력해야-하는-이유/)
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://jinssssun.tistory.com/54)
 - [Why DDD, Clean Architecture and Hexagonal ?](https://dataportal.kr/Why-DDD-Clean-Architecture-and-Hexagonal/)
 - [Facebook을 다운 시킨 원인, BGP hijacking이 무엇인가?](https://jinssssun.tistory.com/14)
