@@ -59,22 +59,16 @@
 - .. And more
 
 ### :octocat: Contributions
-- **mongo-java-driver**
-  - https://github.com/mongodb/mongo-java-driver/pull/996
-  - https://github.com/mongodb/mongo-java-driver/pull/997
-  - [mongodb/mongo-java-driver#4719](https://jira.mongodb.org/browse/JAVA-4719)
-  - https://github.com/mongodb/mongo-java-driver/pull/999
-- **feign**
-  - [OpenFeign/feign#2458](https://github.com/OpenFeign/feign/issues/2458)
-  - [OpenFeign/feign#2459](https://github.com/OpenFeign/feign/pull/2459)
-- **ksp**
-  - https://github.com/google/ksp/pull/1088
-- **kotlin-jdsl**
-  - https://github.com/line/kotlin-jdsl/pull/68
-- **Exposed**
-  - https://github.com/JetBrains/Exposed/pull/1582
-- **postman**
-  - https://github.com/postmanlabs/postman-app-support/issues/10221
+- https://github.com/mongodb/mongo-java-driver/pull/996
+- https://github.com/mongodb/mongo-java-driver/pull/997
+- [mongodb/mongo-java-driver#4719](https://jira.mongodb.org/browse/JAVA-4719)
+- https://github.com/mongodb/mongo-java-driver/pull/999
+- [OpenFeign/feign#2458](https://github.com/OpenFeign/feign/issues/2458)
+- [OpenFeign/feign#2459](https://github.com/OpenFeign/feign/pull/2459)
+- https://github.com/google/ksp/pull/1088
+- https://github.com/line/kotlin-jdsl/pull/68
+- https://github.com/JetBrains/Exposed/pull/1582
+- https://github.com/postmanlabs/postman-app-support/issues/10221
 
 ### 📄 Contents - Individual
 - [결과에 확신이 없더라도 꾸준히 노력해야 하는 이유](https://dataportal.kr/결과에-확신이-없더라도-꾸준히-노력해야-하는-이유/)
