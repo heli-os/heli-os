@@ -61,33 +61,20 @@
 ### :octocat: Contributions
 - **mongo-java-driver**
   - (PR) https://github.com/mongodb/mongo-java-driver/pull/996
-    - fix minor typos in java comments(javadoc) and all that minor typos
   - (PR) https://github.com/mongodb/mongo-java-driver/pull/997
-    - fix typo in abstract method name in ServerMonitorListener
   - (ISSUE) [mongodb/mongo-java-driver#4719](https://jira.mongodb.org/browse/JAVA-4719)
-    - inquire is it bug that the maintenance timer logic for sdam
   - (PR) https://github.com/mongodb/mongo-java-driver/pull/999
-    - change the log message from INFO to DEBUG
-    - Justification: it's the only remaining connection-related log message that is logged at INFO (e.g. the connection-closed message is logged at DEBUG).
 - **feign**
   - (ISSUE) [OpenFeign/feign#2458](https://github.com/OpenFeign/feign/issues/2458)
   - (PR) [OpenFeign/feign#2459](https://github.com/OpenFeign/feign/pull/2459)
 - **ksp**
   - (PR) https://github.com/google/ksp/pull/1088
-    - lift return out of 'if'
-    - change the modifiers to private from public 
 - **kotlin-jdsl**
   - (PR) https://github.com/line/kotlin-jdsl/pull/68
-    - change example code to not use platform type
-    - correct typo in some files
-    - modify to unify code style
 - **Exposed**
   - (PR) https://github.com/JetBrains/Exposed/pull/1582
-    - change some codes to not use platform type
-    - change 'when' expression style
 - **postman**
   - (ISSUE) https://github.com/postmanlabs/postman-app-support/issues/10221
-    - asked if Postman sends SYN to check that IPv6 is available
 
 ### 📄 Contents - Individual
 - [[Java & Kotlin] enum class가 완벽한 싱글톤이라 불리는 이유](https://jinssssun.tistory.com/54)
