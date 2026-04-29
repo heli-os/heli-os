@@ -25,7 +25,7 @@
 
 <!--[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssun)](https://solved.ac/ssun)-->
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=heli-os)
+<!--![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=heli-os)-->
 
 ---
 
